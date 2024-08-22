@@ -198,7 +198,7 @@ export default function Content() {
           className="border-solid border-2 bg-orange-500 p-2 text-white"
           onClick={() => {
             onSaveData();
-            alert("123");
+          
           }}
         >
           Save
